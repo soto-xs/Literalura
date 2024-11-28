@@ -43,25 +43,17 @@ spring.jpa.properties.hibernate.format_sql=true
 Reemplaza tu-usuario y tu-contraseña con los datos correspondientes de tu base de datos.
 
 4. Ejecuta el proyecto: Si usas IntelliJ IDEA, simplemente haz clic en el botón de Run o ejecuta el siguiente comando desde la terminal en el directorio raíz del proyecto:
-``bash
- mvn spring-boot:run
-
-
-
+Para ejecutar la aplicación, usa el siguiente comando: Esto iniciará el servidor y podrás acceder a la aplicación en tu navegador.
+ ```bash
+mvn spring-boot:run
 
 Esto iniciará el servidor y podrás acceder a la aplicación en tu navegador.
 
-Contribuir
-Si deseas contribuir al proyecto, sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una rama con tu nueva característica (git checkout -b feature/nueva-caracteristica).
-Realiza los cambios necesarios y haz un commit (git commit -am 'Añadir nueva característica').
-Haz un push a tu rama (git push origin feature/nueva-caracteristica).
-Crea un pull request describiendo los cambios que has realizado.
-Licencia
-Este proyecto está bajo la licencia MIT. Si deseas más detalles sobre la licencia, consulta el archivo LICENSE.
 
 Contacto
 Autor: Jansie Carolina García Soto
+
+
+
 
